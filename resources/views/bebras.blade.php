@@ -1,0 +1,1 @@
+<h1 style="color:{{$color}}; font-size:'{{$size}}px;">{{$word}}, Bebrai from conteiner</h1>;
